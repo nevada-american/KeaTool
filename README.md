@@ -1,9 +1,9 @@
 This tool may be of some use for admins responsible for managing one or more Kea servers (DHCP).
 
-To build:
-go mod init
-go get <external modules>
-go build -o keatool .
+To build:\
+go mod init\
+go get <external modules>\
+go build -o keatool .\
 
 You will need to import:
 
