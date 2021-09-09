@@ -3,7 +3,7 @@ This tool may be of some use for admins responsible for managing one or more Kea
 To build:\
 go mod init\
 go get <external modules>\
-go build -o keatool .\
+go build -o keatool .
 
 You will need to import:
 
